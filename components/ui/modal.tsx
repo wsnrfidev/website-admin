@@ -30,7 +30,7 @@ const Modal = ({
   };
 
   return (
-    <Dialog open={isOpen} onopenChange={onChange}>
+    <Dialog open={isOpen} onOpenChange={onChange}>
       <DialogContent>
         <DialogHeader>
           <DialogTitle>{title}</DialogTitle>
