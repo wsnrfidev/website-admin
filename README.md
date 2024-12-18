@@ -14,6 +14,12 @@ pnpm dev
 bun dev
 ```
 
+[Preview]
+
+![Toko Online - Google Chrome 19_12_2024 03 28 02](https://github.com/user-attachments/assets/46cfd49a-6114-4ce5-a666-af41ba546173)
+
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
